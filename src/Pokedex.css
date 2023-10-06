@@ -1,0 +1,12 @@
+.Pokedex {
+    background-color: aliceblue;
+}
+
+.Pokedex-header {
+    color: rgba(114, 114, 114, 0.644);
+}
+
+.Pokedex-container {
+    display: flexbox;
+    flex-wrap: wrap;
+}
